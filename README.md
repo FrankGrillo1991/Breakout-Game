@@ -1,0 +1,1 @@
+Breakout Game developed with HTML, CSS & JavaScript
