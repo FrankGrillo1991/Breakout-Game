@@ -1,1 +1,1 @@
-Breakout Game developed with HTML, CSS & JavaScript.
+Breakout Game developed with HTML, CSS & JavaScript
