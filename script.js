@@ -24,3 +24,12 @@ const brickOffsetLeft = 30;
 
 let score = 0;
 let lives = 3;
+
+const bricks = [];
+for (let c = 0; c < brickColumnCount; c++) {
+    bricks[c] = [];
+    for (let r = 0; r < brickRowCount; r++) {
+        bricks[c][r] = { x: 0, y: 0, status: 1 };
+    }
+}
+
